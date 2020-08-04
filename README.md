@@ -3,6 +3,6 @@
 Leetcode Question 269 (Hard)
 
 Techniques Used in Question: 
-Hashmap, Hashset, Topological-Sort, BFS
+Hashmap, Hashset, Topological-Sort, BFS, Graph
 
 [Link to Question](https://leetcode.com/problems/alien-dictionary/)
